@@ -5,7 +5,7 @@ import 'package:clima/services/location.dart';
 import 'package:flutter/material.dart';
 
 
-const apiKey = '3443a28f5436d0cb10382c643dd3bb9f';
+const apiKey = 'YOUR_API_KEY';
 
 class WeatherModel {
 
