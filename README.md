@@ -46,7 +46,7 @@ WeatherApp/
 ## Installation & Running the Application
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/Clima.git
+git clone https://github.com/VictorCraciunas/Clima.git
 ```
 
 ### 2. Install Flutter Dependencies
